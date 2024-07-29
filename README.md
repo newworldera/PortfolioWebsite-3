@@ -1,7 +1,7 @@
 # Portfolio-Website-3
 Embarking on the journey to enhance your web development skills through hands-on projects is an exciting and rewarding experience. This approach not only solidifies your understanding of fundamental concepts but also exposes you to real-world challenges and problem-solving scenarios. By engaging in a variety of projects, from simple static websites to complex, dynamic web applications, you will gain practical experience in HTML, CSS, JavaScript, and backend technologies. Each project serves as a stepping stone, building your confidence and competence in coding, design, and user experience.
 
-Live Demo - https://newworldera.github.io/PortfolioWebsite/
+Live Demo - https://newworldera.github.io/PortfolioWebsite-3/
 
 # Join Us
 GitHub-https://github.com/newworldera
@@ -15,3 +15,4 @@ Telegram-https://t.me/+t73Q26ORYWRkYWQ1
 Whatsapp- https://whatsapp.com/channel/0029VafLdr6EawdzpspHgb0O
 
 # Output 1
+![Screenshot 2024-07-29 142444](https://github.com/user-attachments/assets/87da474f-5c56-4fd2-98dd-d1265721fa61)
