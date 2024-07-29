@@ -6,7 +6,7 @@ Live Demo - https://newworldera.github.io/PortfolioWebsite-3/
 # Join Us
 GitHub-https://github.com/newworldera
 
-YouTube-https://www.youtube.com/@new_world_era_
+YouTube-https://www.youtube.com/channel/UCOQjw35DxJYhiP8d_m8dTmQ
 
 Instagram - https://instagram.com/new_world_era_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==
 
